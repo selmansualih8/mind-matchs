@@ -1,0 +1,6 @@
+# Local database: keep this private and do not commit it to a public repository.
+mindmatch.db
+
+# Python build cache
+__pycache__/
+*.pyc
